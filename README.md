@@ -63,7 +63,7 @@ Creating a GET Expense by ID API in Spring Boot, handling exceptions, and testin
 13. Creating a 'get expense by ID' API in a Spring Boot application involves adding a method to the expense service implementation to retrieve an expense by its ID.
           -Adding a new method named 'get expense by ID' in the expense service implementation to return an expense based on the provided ID.
           -Accepting the ID in the method and using the expense repository to find the expense by ID, handling availability using optional and throwing exceptions if needed.
-14. The video demonstrates creating an API endpoint to retrieve expenses by ID, handling exceptions, and testing the API using Postman resulting in successful and failed responses.
+14. Creating an API endpoint to retrieve expenses by ID, handling exceptions, and testing the API using Postman resulting in successful and failed responses.
           -Handling exceptions using catch blocks and returning appropriate HTTP statuses and messages.
           -Testing the created API endpoint using Postman by sending GET requests with different IDs, showing successful and failed responses.
 
